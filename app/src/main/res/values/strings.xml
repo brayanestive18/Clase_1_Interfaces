@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Clase_1_Interfaces</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="registrar">Información</string>
+    <string name="informacion">Resultado es:</string>
+    <string name="email">Correo Electronico</string>
+    <string name="numero">Telefono</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="bailar">Bailar</string>
+    <string name="comer">Comer</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bello</item>
+        <item>Sabaneta</item>
+        <item>Caldas</item>
+        <item>Itagui</item>
+        <item>Envigado</item>
+        <item>Copacabana</item>
+    </string-array>
+
+</resources>
